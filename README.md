@@ -13,6 +13,7 @@ Fraud detection is a highly imbalanced classification problem where fraudulent t
 ## 📊 Dataset
 
 - Source: Kaggle Credit Card Fraud Dataset  
+- Download creditcard.csv from Kaggle and place it inside the data/ folder.
 - Total Records: 284,807  
 - Fraud Cases: 492 (~0.17%)  
 - Features:

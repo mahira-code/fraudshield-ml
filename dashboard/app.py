@@ -11,6 +11,12 @@ st.set_page_config(
 
 st.title("🛡️ FraudShield")
 st.subheader("Credit Card Fraud Detection Dashboard")
+st.markdown("Built by **Mahira Banu — Data Scientist | AI Engineer**")
+st.link_button("🌐 Portfolio", "https://mahirabanu.website")
+
+st.link_button("💻 GitHub", "https://github.com/mahira-code")
+
+st.link_button("🔗 LinkedIn", "https://www.linkedin.com/in/mahira-banu")
 
 st.write(
     """

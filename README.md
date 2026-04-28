@@ -1,4 +1,4 @@
-# 🛡️ ALLANAI.FraudShield — Credit Card Fraud Detection System
+# 🛡️ FraudShield — Credit Card Fraud Detection System
 
 A machine learning-based fraud detection system designed to identify anomalous financial transactions using both supervised and unsupervised learning approaches. The project includes model training, evaluation, explainability, and a live Streamlit dashboard for real-time fraud prediction.
 
